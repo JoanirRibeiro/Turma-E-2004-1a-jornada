@@ -16,10 +16,12 @@
 
 .cabeçalho-lista-item1 {
     display: inline-block;
+    margin: 0 16px;
 }
 
 .cabeçalho-lista-item2 {
     display: inline-block;
+    margin: 0 16px;
 }
 
 .cabeçalho-imagem{
