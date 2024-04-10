@@ -14,11 +14,7 @@
     color: white;
 }
 
-.cabeçalho-lista-item1 {
-    display: inline-block;
-}
-
-.cabeçalho-lista-item2 {
+li {
     display: inline-block;
 }
 
