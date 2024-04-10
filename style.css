@@ -12,6 +12,13 @@
 
 .cabeçalho-lista {
     color: white;
+}
+
+.cabeçalho-lista-item1 {
+    display: inline-block;
+}
+
+.cabeçalho-lista-item2 {
     display: inline-block;
 }
 
