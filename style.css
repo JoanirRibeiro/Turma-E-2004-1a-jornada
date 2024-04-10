@@ -44,6 +44,10 @@
 
 }
 
+.Seção1-div-conteúdo {
+    justify-content: center;
+}
+
 .Seção1-imagem {
     width: 30%;
 }
