@@ -42,10 +42,11 @@
     display: flex;
     justify-content: center;
     align-items: center;
-
 }
 
 .Seção1-div-conteúdo {
+    width: 30%;
+    padding: 24px,0;
     justify-content: center;
 }
 
