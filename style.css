@@ -44,6 +44,10 @@
     align-items: center;
 }
 
+.Seção1-Título {
+    padding: 24px 0;
+}
+
 .Seção1-div-conteúdo {
     width: 30%;
     padding: 24px,0;
