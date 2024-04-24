@@ -80,6 +80,11 @@ body{
     color: white;
 }
 
+.equipe-professores-título {
+    text-align: center;
+    padding: 50px 0;
+}
+
 .ícones {
     width: 24px;
 }
