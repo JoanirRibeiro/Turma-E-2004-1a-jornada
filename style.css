@@ -93,3 +93,8 @@ body{
 text-align: center;
 padding: 16px 0;
 }
+
+.equipe-professores-todos{
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+}
